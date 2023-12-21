@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Digital Agency Project](Unavailable)
 
-- 🌱 I’m currently learning React Js **Tailwind CSS**
+- 🌱 I’m currently learning ** advance React Js**
 
 - 👯 I’m looking to collaborate on **Linktree**
 
