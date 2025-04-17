@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Linktree**
 
-- 🤝 I’m looking for help with [Advance Nextjs Performance]
+- 🤝 I’m looking for help with [Advance Nextjs Performance & Optmization issues]
 
 - 👨‍💻 All of my projects are available at GitHub [https://github.com/DevSammyKad/](https://github.com/DevSammyKad/)
 
