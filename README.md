@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [Digital Agency Project](Unavailable)
 
-- 🌱 I’m currently learning ** advance React Js**
+- 🌱 I’m currently learning ** Advance Nextjs**
 
 - 👯 I’m looking to collaborate on **Linktree**
 
-- 🤝 I’m looking for help with [Advance Nextjs]
+- 🤝 I’m looking for help with [Advance Nextjs Performance]
 
 - 👨‍💻 All of my projects are available at GitHub [https://github.com/DevSammyKad/](https://github.com/DevSammyKad/)
 
