@@ -5,19 +5,19 @@
 
 - 🔭 I’m currently working on [Digital Agency Project](Unavailable)
 
-- 🌱 I’m currently learning ** Advance Nextjs**
+- 🌱 I’m currently learning ** Advance Nextjs 16 **
 
-- 👯 I’m looking to collaborate on **Linktree**
+- 👯 I’m looking sales person for  **SHIKSHA.CLOUD**
 
 - 🤝 I’m looking for help with [Advance Nextjs Performance & Optmization issues]
 
 - 👨‍💻 All of my projects are available at GitHub [https://github.com/DevSammyKad/](https://github.com/DevSammyKad/)
 
-- 💬 Ask me about **React js GSAP HTML core CSS**
+- 💬 Ask me about **React js GSAP HTML core CSS ,Tailwind , Nextjs**
 
 - 📫 How to reach me 8459324821 **+91 8459324821**
 
-- ⚡ Volleyball Nation Player **Represent Maharashtra**
+- ⚡ Volleyball National Player **Represent Maharashtra**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
