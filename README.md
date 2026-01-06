@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **React js GSAP HTML core CSS ,Tailwind , Nextjs**
 
-- 📫 How to reach me 8459324821 **+91 8459324821**
+- 📫 How to reach me  **+91 8459324821**
 
 - ⚡ Volleyball National Player **Represent Maharashtra**
 
